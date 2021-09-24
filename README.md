@@ -3,6 +3,20 @@
 
 <br>
 
+<h2> 😄 Introducing </h2>
+
+<h4> 
+   Hello! I am Keunyoung.  
+   
+   I am currently studying hard to become a great developer.   
+     
+     
+🌱 Junior Developer</h4>
+
+<br>
+
+-----------------------------------------------------------
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>  
