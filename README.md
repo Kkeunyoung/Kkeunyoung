@@ -1,5 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkeunyoung&count_bg=%23A16DDD&title_bg=%235C5A5A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) 
-![header](https://capsule-render.vercel.app/api?type=soft&color=DFD4F7&height=150&section=header&text=keunyoungKim&fontSize=70) 
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=keunyoungKim&fontSize=70) 
 
 <br>
 
