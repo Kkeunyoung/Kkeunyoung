@@ -12,8 +12,10 @@
 
 <h3 align="center">✨ Me ✨</h3>  
 <p align="center">
-<a href="naver.com" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
-<a href="naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-308F11?style=flat-square&logo=Minutemailer&logoColor=FFFFFF"/></a>  
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="https://www.youtube.com" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-308F11?style=flat-square&logo=Minutemailer&logoColor=FFFFFF"/></a>
 </p>   
    
 <br>
