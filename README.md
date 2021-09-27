@@ -28,8 +28,8 @@
 <p align="center">
 <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@kkeun0_dev" target="_blank"><img src="https://img.shields.io/badge/Blog-7f8aea?style=flat-square&logo=Micro.blog&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
-<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-308F11?style=flat-square&logo=Minutemailer&logoColor=FFFFFF"/></a>
+<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-C64C8B?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-85C76C?style=flat-square&logo=Minutemailer&logoColor=FFFFFF"/></a>
 </p>   
    
 <br>
