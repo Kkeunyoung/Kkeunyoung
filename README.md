@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kkeunyoung&show_icons=true&theme=buefy"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kkeunyoung&show_icons=true&theme=buefy&layout=compact&langs_count=10"/>
   
   
    <h3> 🍒 KeunYoung 🍇 </h3>
@@ -12,8 +12,8 @@
  
   **I am currently studying hard to become a great developer.**   
 
-    Study_log 📝  https://velog.io/@kkeun0_dev  
-     Email 👩🏻‍💼  Kkyoung1998@gmail.com     
+    Study_log📝  https://velog.io/@kkeun0_dev  
+     Email👩🏻‍💼  Kkyoung1998@gmail.com     
 
 
  
@@ -28,7 +28,6 @@
    <br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkeunyoung&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
-   
    
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
