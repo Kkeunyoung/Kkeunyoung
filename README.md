@@ -10,9 +10,10 @@
  <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <!-- <a href="https://velog.io/@kkeun0_dev" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a> --!>
  
-    I am currently studying hard to become a great developer.  
-    Study_log📝  https://velog.io/@kkeun0_dev  
-    Emial👩🏻‍💼  Kkyoung1998@gmail.com     
+  **I am currently studying hard to become a great developer.**   
+
+    Study_log 📝  https://velog.io/@kkeun0_dev  
+     Email 👩🏻‍💼  Kkyoung1998@gmail.com     
 
 
  
