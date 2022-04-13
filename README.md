@@ -3,29 +3,28 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kkeunyoung&show_icons=true&theme=buefy&layout=compact&langs_count=10"/>
   
   
-   <h3> 🍒 KeunYoung 🍇 </h3>
-  
+   <h2> 🍒 KeunYoung 🍇 </h2>
   <br>
  <a href="https://github.com/Kkeunyoung"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKkeunyoung&count_bg=%23A16DDD&title_bg=%235C5A5A&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=true)"/></a>
  <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <!-- <a href="https://velog.io/@kkeun0_dev" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a> --!>
  
 
-    Study_log📝  https://velog.io/@kkeun0_dev  
-     Email👩🏻‍💼  Kkyoung1998@gmail.com     
+  Study_log 📝  https://velog.io/@kkeun0_dev  
+  Email 👩🏻‍💼  Kkyoung1998@gmail.com     
 
 
- 
+   <br>
+
 </div>
 
 <div align="center">
-   
+
    <br>
-   
+
    ----
 
    <br>
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kkeunyoung&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/>
    
 <h3 align="center">🛠 Tech Stack 🛠</h3>
