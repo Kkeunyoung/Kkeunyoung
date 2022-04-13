@@ -15,32 +15,44 @@
 
 <br>
 
------------------------------------------------------------
+*********************************************************************************
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h2 align="center">🛠 Tech Stack 🛠</h2>
 <p align="center">
+  <!-- <img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/> --!> 
+  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  <img alt="JAVA" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+
+  <br>
+  <img alt="Spring" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
+  <img alt="MySql" src ="https://img.shields.io/badge/Mysql-E6B91E.svg?&style=for-the-badge&logo=MySql&logoColor=white"/>
+  <img alt="MariaDb" src ="https://img.shields.io/badge/MariaDb-003545.svg?&style=for-the-badge&logo=MariaDb&logoColor=white"/> 
+   
+  <!--
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
- <!--
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
---!>  
   
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  --!>  
 </p>    
 
+<br>
 <br>
 
 <h3 align="center">✨ Me ✨</h3>  
 <p align="center">
 <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://velog.io/@kkeun0_dev" target="_blank"><img src="https://img.shields.io/badge/Blog-7f8aea?style=flat-square&logo=Micro.blog&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-C64C8B?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
+<!--<a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-C64C8B?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a> --!>
 <a href="https://www.naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-85C76C?style=flat-square&logo=Minutemailer&logoColor=FFFFFF"/></a>
 </p>   
    
